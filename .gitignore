@@ -3,6 +3,7 @@ Weather_Database/config.py
 # Adding additional files.
 API_practice.ipynb
 random_numbers.ipynb
+VacationPy.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
